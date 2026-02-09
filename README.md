@@ -1,12 +1,4 @@
-**EXCELLENT.** You've got the screenshots. Now let's create a **professional README.md** that showcases your work properly.
 
-This README will make your GitHub repo look polished and demonstrate your understanding of the project.
-
----
-
-## `README.md` (GitHub Version - Complete)
-
-```markdown
 # ☁️ Cloud Resource Anomaly Detection using DBSCAN
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
@@ -429,13 +421,6 @@ Based on 2000 data points with 5% injected anomalies:
 
 ---
 
-## 📚 References
-
-### Academic Papers
-1. Ester, M., Kriegel, H. P., Sander, J., & Xu, X. (1996). *"A density-based algorithm for discovering clusters in large spatial databases with noise."* Kdd, 96(34), 226-231.
-
-2. Schubert, E., Sander, J., Ester, M., Kriegel, H. P., & Xu, X. (2017). *"DBSCAN revisited, revisited: why and how you should (still) use DBSCAN."* ACM Transactions on Database Systems (TODS), 42(3), 1-21.
-
 ### Documentation
 - [scikit-learn DBSCAN Documentation](https://scikit-learn.org/stable/modules/generated/sklearn.cluster.DBSCAN.html)
 - [Streamlit Documentation](https://docs.streamlit.io/)
@@ -450,36 +435,21 @@ Based on 2000 data points with 5% injected anomalies:
 
 ## 👨‍🎓 Author
 
-**[Your Name]**
+**RenoX23**
+
 M.Tech AI/ML Student
-[Your University Name]
+
+**Christ Univeristy**
 
 **Project Type**: Density-Based Clustering Application
+
 **Course**: Machine Learning / Artificial Intelligence
-**Semester**: [Your Semester]
+
+**Semester**: [2]
+
 **Year**: 2024-2025
 
-### Connect
-- 📧 Email: [your.email@university.edu]
-- 💼 LinkedIn: [your-linkedin-profile]
-- 🐙 GitHub: [your-github-username]
 
----
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-## 🙏 Acknowledgments
-
-- **Professor [Name]**: Project guidance and mentorship
-- **scikit-learn Team**: Excellent DBSCAN implementation
-- **Streamlit Team**: Amazing framework for ML dashboards
-- **Anthropic Claude**: Development assistance and code review
-
----
 
 ## 🌟 Star This Repository
 
@@ -490,9 +460,9 @@ If you found this project helpful, please consider giving it a ⭐️!
 ## 📞 Contact & Support
 
 For questions, suggestions, or collaboration opportunities:
-- Open an [Issue](https://github.com/yourusername/cloud-anomaly-dbscan/issues)
-- Submit a [Pull Request](https://github.com/yourusername/cloud-anomaly-dbscan/pulls)
-- Email: [your.email@university.edu]
+- Open an [Issue](https://github.com/RenoX23/cloud-anomaly-dbscan/issues)
+- Submit a [Pull Request](https://github.com/RenoX23/cloud-anomaly-dbscan/pulls)
+- Email: [whitewolf9181@gmail.com]
 
 ---
 
@@ -500,9 +470,9 @@ For questions, suggestions, or collaboration opportunities:
 
 **Built with ❤️ for Cloud Infrastructure Monitoring**
 
-[⬆ Back to Top](#-cloud-resource-anomaly-detection-using-dbscan)
+
 
 </div>
-```
+
 
 ---
